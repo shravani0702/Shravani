@@ -1,0 +1,26 @@
+1.State of Charge (SOC) - Ratio b/w present charge and full charge capacity
+It helps to analyze how much charge is available in the battery
+
+2.State of Power (SOP) - Ratio b/w peak power to nominal power
+It decides the power transfer capacity of battery.
+Analyzes when the voltage is less and also analyze the driver how much acceleration battery can withstand
+
+3.State of Health (SOH)
+Ratio b/w present full charge capacity and original full charge capacity
+Frequent charging and discharging affect the battery life
+Analyzes when the battery can be replaced
+
+BMS (Battery Mgmt System)
+----------------------------
+Issues without BMS - Safety (due to temp fluctuations, catches fire)
+					 Over Charging alarm
+					 Electric shock
+					 
+Needs - Cooling system
+	    Continuous Temp Measurement
+		Safe mode activation
+
+
+the battery management system (BMS), an embedded controller that regulates the flow and distribution of power to and from the cells. 
+
+		
